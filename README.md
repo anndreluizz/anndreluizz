@@ -22,6 +22,7 @@ Sistema de gestão completo, desenvolvido sozinho desde fevereiro de 2026 e **em
 
 ## 🧩 Outros projetos
 
+- ⏱️ **[Ponto Eletrônico Escolar](https://github.com/anndreluizz/sistema-de-ponto)**: substituiu o caderno de assinaturas de uma escola municipal de Tonantins. Totem com crachá QR Code, banco de horas, folha de ponto mensal em PDF/Excel e fechamento do mês. Flask + SQLite, funciona sem internet, 72 testes
 - 🛍️ **[Vitrine virtual da 3.L.A Variedades](https://anndreluizz.github.io/3la-variedades/)**: site da loja com os produtos, gerado automaticamente pelo Vertex ERP ([código](https://github.com/anndreluizz/3la-variedades))
 
 ## 📜 Certificações
