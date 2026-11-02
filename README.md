@@ -1,8 +1,10 @@
 # Olá, eu sou o Andre 👋
 
-**Desenvolvedor Full Stack** em Tonantins, no interior do Amazonas. Estou no último período de Análise e Desenvolvimento de Sistemas (Estácio) e busco minha primeira oportunidade como desenvolvedor, **de forma remota**.
+**Desenvolvedor Python / Full Stack** em Tonantins, no interior do Amazonas. Estou no último período de Análise e Desenvolvimento de Sistemas (Estácio) e busco minha primeira oportunidade como desenvolvedor, **de forma remota**.
 
 Gosto de construir software que resolve problema de verdade, junto com quem usa.
+
+🤖 Trabalho com **IA como parceira de desenvolvimento**: uso o Claude Code no dia a dia para escrever, revisar e investigar bugs, sempre com as decisões de produto e arquitetura nas minhas mãos. Agora estou estudando **agentes de IA** (Bootcamp Bradesco Agentes de IA, DIO).
 
 ## 🚀 Projeto em destaque: [Vertex ERP](https://github.com/anndreluizz/VertexERP)
 
@@ -13,9 +15,19 @@ Sistema de gestão completo, desenvolvido sozinho desde fevereiro de 2026 e **em
 - 💰 Contas a pagar e a receber, leitura de boleto, Pix e conciliação bancária
 - 📦 Estoque separado por loja, com transferência entre matriz e filial
 - 📱 App Android para acompanhar a loja de qualquer lugar
-- ✅ Cerca de 700 testes automatizados e CI no GitHub Actions
+- ✅ Mais de 800 testes automatizados, CI no GitHub Actions e 69 versões publicadas com atualização automática
+- 🛡️ Backup de hora em hora com cópia na nuvem e vigia que reinicia o sistema se ele travar
 
 [![Vertex ERP](https://raw.githubusercontent.com/anndreluizz/VertexERP/main/docs/imagens/desktop-inicio.png)](https://github.com/anndreluizz/VertexERP)
+
+## 🧩 Outros projetos
+
+- 🛍️ **[Vitrine virtual da 3.L.A Variedades](https://anndreluizz.github.io/3la-variedades/)**: site da loja com os produtos, gerado automaticamente pelo Vertex ERP ([código](https://github.com/anndreluizz/3la-variedades))
+
+## 📜 Certificações
+
+- Python Essentials 1 e 2 (Cisco Networking Academy)
+- Administrando Banco de Dados (Fundação Bradesco)
 
 ## 🛠️ Tecnologias
 
