@@ -23,6 +23,8 @@ Sistema de gestão completo, desenvolvido sozinho desde fevereiro de 2026 e **em
 ## 🧩 Outros projetos
 
 - ⏱️ **[Ponto Eletrônico Escolar](https://github.com/anndreluizz/sistema-de-ponto)**: substituiu o caderno de assinaturas de uma escola municipal de Tonantins. Totem com crachá QR Code, banco de horas, folha de ponto mensal em PDF/Excel e fechamento do mês. Flask + SQLite, funciona sem internet, 72 testes
+- 🏛️ **[SIGEP](https://github.com/anndreluizz/sigep)**: sistema de gestão de ponto para a Prefeitura de Tonantins. Totem com QR Code e foto da batida, painel do RH, justificativas, folha SEMED e auditoria. JavaScript + Supabase com regras de acesso no banco (RLS), [demonstração online](https://anndreluizz.github.io/sigep/demo.html)
+- ⚽ **[TNT Esportes](https://github.com/anndreluizz/tnt-esportes)**: portal dos campeonatos da Secretaria de Esportes de Tonantins. Inscrições, sorteio, súmula digital que funciona sem internet e tabelas públicas. JavaScript + Supabase, [portal online](https://anndreluizz.github.io/tnt-esportes/)
 - 🛍️ **[Vitrine virtual da 3.L.A Variedades](https://anndreluizz.github.io/3la-variedades/)**: site da loja com os produtos, gerado automaticamente pelo Vertex ERP ([código](https://github.com/anndreluizz/3la-variedades))
 
 ## 📜 Certificações
@@ -32,6 +34,8 @@ Sistema de gestão completo, desenvolvido sozinho desde fevereiro de 2026 e **em
 
 ## 🛠️ Tecnologias
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
