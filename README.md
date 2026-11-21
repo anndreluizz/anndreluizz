@@ -4,6 +4,8 @@
 
 Gosto de construir software que resolve problema de verdade, junto com quem usa.
 
+🌎 **English:** Python / full-stack developer from Tonantins, Amazonas, Brazil, looking for a first **remote** developer role. I build and maintain Vertex ERP (FastAPI, PostgreSQL, PySide6, Flutter), used daily by a retail store, plus a municipal time-clock system (SIGEP, JavaScript + Supabase with row-level security) and a sports-championship portal, all with automated tests and CI.
+
 🤖 Trabalho com **IA como parceira de desenvolvimento**: uso o Claude Code no dia a dia para escrever, revisar e investigar bugs, sempre com as decisões de produto e arquitetura nas minhas mãos. Agora estou estudando **agentes de IA** (Bootcamp Bradesco Agentes de IA, DIO).
 
 ## 🚀 Projeto em destaque: [Vertex ERP](https://github.com/anndreluizz/VertexERP)
@@ -14,8 +16,9 @@ Sistema de gestão completo, desenvolvido sozinho desde fevereiro de 2026 e **em
 - 📒 Fiado com ficha do cliente, limite de crédito e recibos
 - 💰 Contas a pagar e a receber, leitura de boleto, Pix e conciliação bancária
 - 📦 Estoque separado por loja, com transferência entre matriz e filial
+- ⚖️ Venda por peso: digita `3,24*frango` no caixa e o total sai calculado, sem precisar de balança com etiqueta
 - 📱 App Android para acompanhar a loja de qualquer lugar
-- ✅ Mais de 800 testes automatizados, CI no GitHub Actions e 69 versões publicadas com atualização automática
+- ✅ Mais de 950 testes automatizados (backend e desktop), CI no GitHub Actions e mais de 100 versões publicadas com atualização automática
 - 🛡️ Backup de hora em hora com cópia na nuvem e vigia que reinicia o sistema se ele travar
 
 [![Vertex ERP](https://raw.githubusercontent.com/anndreluizz/VertexERP/main/docs/imagens/desktop-inicio.png)](https://github.com/anndreluizz/VertexERP)
@@ -23,7 +26,7 @@ Sistema de gestão completo, desenvolvido sozinho desde fevereiro de 2026 e **em
 ## 🧩 Outros projetos
 
 - ⏱️ **[Ponto Eletrônico Escolar](https://github.com/anndreluizz/sistema-de-ponto)**: substituiu o caderno de assinaturas de uma escola municipal de Tonantins. Totem com crachá QR Code, banco de horas, folha de ponto mensal em PDF/Excel e fechamento do mês. Flask + SQLite, funciona sem internet, 72 testes
-- 🏛️ **[SIGEP](https://github.com/anndreluizz/sigep)**: sistema de gestão de ponto para a Prefeitura de Tonantins. Totem com QR Code e foto da batida, painel do RH, justificativas, folha SEMED e auditoria. JavaScript + Supabase com regras de acesso no banco (RLS), [demonstração online](https://anndreluizz.github.io/sigep/demo.html)
+- 🏛️ **[SIGEP](https://github.com/anndreluizz/sigep)**: sistema de gestão de ponto para a Prefeitura de Tonantins. Totem com QR Code e foto da batida (com registro de quem a viu), painel do RH, justificativas, folha SEMED e auditoria. JavaScript + Supabase com regras de acesso no banco (RLS), revisão de segurança com todos os achados tratados e mais de 350 testes, [demonstração online](https://anndreluizz.github.io/sigep/demo.html)
 - ⚽ **[TNT Esportes](https://github.com/anndreluizz/tnt-esportes)**: portal dos campeonatos da Secretaria de Esportes de Tonantins. Inscrições, sorteio, súmula digital que funciona sem internet e tabelas públicas. JavaScript + Supabase, [portal online](https://anndreluizz.github.io/tnt-esportes/)
 - 🛍️ **[Vitrine virtual da 3.L.A Variedades](https://anndreluizz.github.io/3la-variedades/)**: site da loja com os produtos, gerado automaticamente pelo Vertex ERP ([código](https://github.com/anndreluizz/3la-variedades))
 
@@ -48,4 +51,6 @@ Sistema de gestão completo, desenvolvido sozinho desde fevereiro de 2026 e **em
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Luis%20Coelho%20Lopes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-luis-coelho-lopes)
+Aberto a vagas **remotas** de desenvolvedor Python / Full Stack.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Luis%20Coelho%20Lopes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-luis-coelho-lopes) [![E-mail](https://img.shields.io/badge/E--mail-lopesandreluis76%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:lopesandreluis76@gmail.com)
